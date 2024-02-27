@@ -1,16 +1,14 @@
 # Welcome!
 
-I am a recent Tech Elevator bootcamp graduate looking to start a career in software development.
+I am a Digital Communications Specialist working on the Web Team for [The MetroHealth System](https://www.metrohealth.org). I use Sitecore to publish various bits of HTML, CSS, and Javascript.
 
-My GitHub use to date has been primarily for my work with [TicketNut](https://ticketnut.com/).
+My GitHub use to date has been primarily for my work with [TicketNut](https://ticketnut.com/), building a ticket and event platform using Ruby on Rails.
 
 ___
 
-My Tech Elevator capstone project, the Family Reading Tracker, is live! It's a full-stack app built with Java Spring Boot and a Vue.js front end. The backend is currently hosted on [fly.io](https://fly.io).
+I am a Tech Elevator graduate, May 2023 NLR cohort! My Tech Elevator team capstone project, the Family Reading Tracker, is a full-stack app built with Java Spring Boot and a Vue.js front end.
 
 Users can set up a family, add their books to track reading progress, and set goals for reading activity in the form of prizes to achieve.
-
-**[📚 Try out Family Reading Tracker! 📚](https://namstutz.github.io/namstutz-te-capstone)**
 
 **[🗊 View the Repository 🗊](https://github.com/namstutz/namstutz-te-capstone)**
 
